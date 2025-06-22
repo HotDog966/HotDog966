@@ -1,16 +1,19 @@
-## Hi there 👋
+---
 
-<!--
-**HotDog966/HotDog966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Hakkımda
 
-Here are some ideas to get you started:
+Merhaba! Ben Muhammed Derviş, yazılım dünyasına tutkuyla bağlı bir geliştiriciyim.
+Oyun geliştirme, görüntü işleme ve web teknolojileri alanında projeler geliştiriyor ve sürekli öğreniyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Yetkinlikler
+
+* 🎮 **Oyun Geliştirme:** Unity & C# kullanarak 2D/3D oyunlar geliştiriyorum.
+* 🧠 **Görüntü İşleme:** Yolo ve OpenCV ile görüntü analizi, işleme ve uygulamalar üzerine çalışıyorum.
+* 🌐 **Web Geliştirme:** HTML, CSS ile modern ve responsive web arayüzleri tasarlıyorum.
+
+### 🛠️ Kullandığım Teknolojiler
+
+```bash
+💻 Diller:     C#, Python, HTML, CSS
+🧰 Araçlar:    Unity, PyCharm, Rider,WebStorm, OpenCV, Git
+```
