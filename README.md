@@ -13,7 +13,7 @@ Oyun geliştirme, görüntü işleme ve web teknolojileri alanında projeler gel
 
 ### 🛠️ Kullandığım Teknolojiler
 
-```bash
+
 💻 Diller:     C#, Python, HTML, CSS
 🧰 Araçlar:    Unity, PyCharm, Rider,WebStorm, OpenCV, Git
-```
+
