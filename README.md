@@ -10,6 +10,7 @@ Oyun geliştirme, görüntü işleme ve web teknolojileri alanında projeler gel
 * 🎮 **Oyun Geliştirme:** Unity & C# kullanarak 2D/3D oyunlar geliştiriyorum.
 * 🧠 **Görüntü İşleme:** Yolo ve OpenCV ile görüntü analizi, işleme ve uygulamalar üzerine çalışıyorum.
 * 🌐 **Web Geliştirme:** HTML, CSS ile modern ve responsive web arayüzleri tasarlıyorum.
+* 📱 **Uygulama Gelistirme:** C++, Python, Qt, Pyqt kullanarak uygulamalar gelistiriyorum.
 
 ### 🛠️ Kullandığım Teknolojiler
 
